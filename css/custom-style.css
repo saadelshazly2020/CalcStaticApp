@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'DroidKufi-Bold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/fonts/Kufi/DroidKufi-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'droid-kufi-regular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/fonts/Kufi/DroidArabicKufiRegular.ttf');
+}
+tr {
+    text-align: right;
+}
